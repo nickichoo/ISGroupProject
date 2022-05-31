@@ -9,5 +9,6 @@ int main()
     cout << "First message from Nicki" << endl;
     cout << "After pat";
     cout << "First message from Simran" << endl;
+    cout << "Second message from Nicki" << endl;
 }
 
