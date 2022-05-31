@@ -10,5 +10,6 @@ int main()
     cout << "After pat";
     cout << "First message from Simran" << endl;
     cout << "Second message from Nicki" << endl;
+    cout << "Second message from Simran" << endl;
 }
 
